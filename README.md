@@ -1,12 +1,12 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl-lutz&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-# Here you can find my Blog:
+## Feel free to check out my Blog:
 [![alt text][1.1]][1]
 
 [1.1]: https://github.com/fl-lutz/fl-lutz/assets/53431152/035343ba-fc73-40e6-b1d5-1fceeac920b7
 
 [1]: https://dev.to/florianlutz
+
+## What do these Repos consist of
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl-lutz&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fl-lutz/fl-lutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
